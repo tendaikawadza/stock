@@ -1,4 +1,4 @@
-# stock
+Project title Enterprise Inventory Management for companies
 1)Technologies used springboot  (backend) and angular(frontend)
 2)database is mysql
 3)This one of the microservice api of the inventory management enterprise system.
